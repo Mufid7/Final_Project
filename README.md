@@ -4,6 +4,7 @@
 ### Sistem ini memungkinkan Anda untuk memantau dan mengendalikan alat pakan ikan secara nirkabel menggunakan modul LoRa. Sistem ini ideal untuk pembudidaya ikan yang ingin mengotomatiskan proses pemberian pakan dan meningkatkan efisiensi budidaya.
 
 ## Fitur:
+
 ### Pemantauan status alat pakan ikan secara real-time
 ### Pengendalian pemberian pakan secara nirkabel
 
